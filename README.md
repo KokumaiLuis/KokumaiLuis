@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KokumaiLuis
+- 👀 I’m interested in code and learn day after day.
+- 💞️ I’m looking to collaborate on VB.NET, C#, SQL and more.
