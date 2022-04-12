@@ -40,16 +40,16 @@ Learning every day about this fascinating universe of development💙
 </br>
 </br>
 </br>
+</br>
+</br>
 
-##  
-  
+##  My contributions
+![Snake animation](https://github.com/kokumailuis/kokumailuis/blob/output/github-contribution-grid-snake.svg)
+
+##  Contacts
 <div dsplay="inline-block">
   <a href="https://www.linkedin.com/in/luiskokumai/">
     <img width="30px" src="https://cdn-icons-png.flaticon.com/512/207/207084.png?" alt="linkedin" style="vertical-align:top;"></a>
   <a href="mailto:lgkokumai@gmail.com">
     <img width="30px" src="https://cdn-icons-png.flaticon.com/512/888/888853.png?" alt="linkedin" style="vertical-align:top;"></a>
 </div>
-
-##  
-
-![Snake animation](https://github.com/kokumailuis/kokumailuis/blob/output/github-contribution-grid-snake.svg)
