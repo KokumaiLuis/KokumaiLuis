@@ -52,4 +52,4 @@ Learning every day about this fascinating universe of development💙
 
 ##  
 
-![Snake animation](https://github.com/KokumaiLuis/KokumaiLuis/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/kokumailuis/kokumailuis/blob/output/github-contribution-grid-snake.svg)
