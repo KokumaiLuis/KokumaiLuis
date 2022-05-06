@@ -35,7 +35,7 @@ Learning every day about this fascinating universe of development💙
 </br>
 
 <h3 align="left"> Venturing into </h3>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40" title = "Swift"/> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" height="40" title = "Apple Ecosystem"/> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" title = "Flutter"/> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" title = "Android Ecosystem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" title = "Javascript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" width="40" height="40" title = "Clojure"/> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40" title = "Swift"/> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" height="40" title = "Apple Ecosystem"/> 
 
 </br>
 </br>
