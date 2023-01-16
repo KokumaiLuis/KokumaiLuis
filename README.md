@@ -19,8 +19,8 @@ Learning every day about this fascinating universe of development💙
 
 <div>
 <a href="https://github.com/KokumaiLuis">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KokumaiLuis&layout=compact&langs_count=7&theme=dracula"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=KokumaiLuis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KokumaiLuis&layout=compact&langs_count=7&theme=dracula"/>
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KokumaiLuis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
 </br>
@@ -29,13 +29,13 @@ Learning every day about this fascinating universe of development💙
 
 
 <h3 align="left"> Working with </h3>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title = "Python"/> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" title = "C#"/> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" title = ".Net"/> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title = "Git"/> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" title = "Github"/> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title = "MySQL"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title = "Python"/> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40" title = "Ubuntu-Linux"/> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" title = "Azure"/> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title = "Git"/> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" title = ".Net"/> 
 
 </br>
 </br>
 
-<h3 align="left"> Venturing into </h3>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" title = "Javascript"/> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" width="40" height="40" title = "Clojure"/> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40" title = "Swift"/> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" height="40" title = "Apple Ecosystem"/> 
+<h3 align="left"> Studying </h3>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" title = "Javascript"/> <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title = "C++"/>
 
 </br>
 </br>
