@@ -6,7 +6,7 @@
 # Hello, my name is Luis Kokumai!
 ## Welcome to my Github profile.
 
-I'm 21 years old and I live in Sao Paulo, Brazil. I am deeply passionate about technology and innovation.    
+I'm 22 years old and live in Sao Paulo, Brazil. I am deeply passionate about technology and innovation.    
 In my extracurricular time I enjoy:
 - 🎵 Music
 - ⚽ Sports 
